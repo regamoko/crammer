@@ -22,3 +22,4 @@ This font project had been created September 20, 2024, and mostly handled by me.
 First released on Github. Added Numbers and punctuation as of September 22, 2024.
 Added a double storey g, will update file.
 Started doing Narrow.
+12/20/2024 - I have since retired Crammer, prior to posting it here. It is replaced by either Jammer, or a different bespoke lettering. It is currently used for the ATC logo.
